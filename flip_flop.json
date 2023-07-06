@@ -1,0 +1,38 @@
+{signal: [
+  
+ ['SR_FF',
+  {name: 'input_Q(t)', wave: 'l...h...'},
+  {name: 'input_S', wave: 'l.h.l.h.'},
+  {name: 'input_R', wave: 'lhlhlhlh'},
+  {},
+  {name: 'output_Q(t+1)', wave: 'l.h..lhl'},
+ ],
+  
+  {},
+  
+['D_FF',
+  {name: 'input_Q(t)', wave: 'l.h.'},
+  {name: 'input_D', wave: 'lhlh'},
+  {},
+  {name: 'output_Q(t+1)', wave: 'lhlh'},
+ ],
+ 
+ {},
+ 
+ ['JK_FF',
+  {name: 'input_Q(t)', wave: 'l...h...'},
+  {name: 'input_J', wave: 'l.h.l.h.'},
+  {name: 'input_K', wave: 'lhlhlhlh'},
+  {},
+  {name: 'output_Q(t+1)', wave: 'l.h..lhl'},
+ ],
+  
+  {},
+  
+  ['T_FF',
+  {name: 'input_Q(t)', wave: 'l.h.'},
+  {name: 'input_T', wave: 'lhlh'},
+  {},
+  {name: 'output_Q(t+1)', wave: 'lh.l'},
+ ]
+ ]}
