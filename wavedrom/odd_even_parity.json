@@ -1,0 +1,11 @@
+{signal: [
+ 
+ ['3-bit Parity Check',
+  {name: 'Q_A', wave: 'l...h...'},
+  {name: 'Q_B', wave: 'l.h.l...'},
+  {name: 'Q_C', wave: 'lhlhlhlh'},
+  {},  
+  { name: 'odd_parity', wave: 'hl.hlh.l' },
+  { name: 'even_parity', wave: 'lh.lhl.h' },
+ ]
+ ]}

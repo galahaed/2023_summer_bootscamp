@@ -1,0 +1,11 @@
+{signal: [
+ 
+ ['3-bit Binary Counter',
+  {name: 'CP', wave: 'lPPPPPPPP'},
+  {},
+  {name: 'Q_A', wave: 'l....h...'},
+  {name: 'Q_B', wave: 'l..h.l.h.'},
+  {name: 'Q_C', wave: 'l.hlhlhlh'},
+  
+ ],  
+ ]}
