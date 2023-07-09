@@ -1,0 +1,12 @@
+{signal: [
+
+ ['4-bit_Johnson_Counter',
+  {name: 'CP', wave: 'lPPPPPPPP'},
+  {},
+  {name: 'QA', wave: 'l.h...l..'},
+  {name: 'QB', wave: 'l..h...l.'},
+  {name: 'QC', wave: 'l...h...l'},
+  {name: 'QD', wave: 'l....h...'},
+
+ ],
+ ]}

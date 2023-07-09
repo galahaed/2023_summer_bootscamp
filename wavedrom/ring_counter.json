@@ -1,0 +1,25 @@
+{signal: [
+  
+['4-bit_Ring_Counter', 
+  {name: 'QA(t)', wave: 'hl..'},
+  {name: 'QB(t)', wave: 'lhl.'},
+  {name: 'QC(t)', wave: 'l.hl'},
+  {name: 'QD(t)', wave: 'l..h'},
+ 
+  {},
+ 
+  {name: 'QA(t+1)', wave: 'l..h'},
+  {name: 'QB(t+1)', wave: 'hl..'},
+  {name: 'QC(t+1)', wave: 'lhl.'},
+  {name: 'QD(t+1)', wave: 'l.hl'},
+
+ 
+ {},
+ 
+  {name: 'DA', wave: 'l..h'},
+  {name: 'DB', wave: 'hl..'},
+  {name: 'DC', wave: 'lhl.'},
+  {name: 'DD', wave: 'l.hl'},
+ 
+ ] 
+]}

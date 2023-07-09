@@ -1,0 +1,16 @@
+{signal: [
+  
+  {},
+  {},
+  {},
+  
+ ['Shift_register_Binary Counter (4-bit, 8-bit)',
+  {name: 'input_Q(t)', wave: 'hlhl'},
+  {name: 'Right_shift_2_Q(t+1)', wave: 'l.hl'},
+ 
+  {},
+ 
+  {name: 'input_Q(t)', wave: 'l.hlh.lh'},
+  {name: 'Left_shift_3_Q(t+1)', wave: 'lh.lhl..'},
+ ],  
+ ]}

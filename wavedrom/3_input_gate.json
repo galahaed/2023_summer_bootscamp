@@ -1,0 +1,16 @@
+{signal: [
+
+ ['3_input',
+  {name: 'signal_1', wave: 'xl...h...'},
+  {name: 'signal_2', wave: 'xl.h.l.h.'},
+  {name: 'signal_3', wave: 'xlhlhlhlh'},
+  {},
+  {name: 'OR_Gate', wave: 'xlh......'},
+  {name: 'AND_Gate', wave:'xl......h'},
+  {name: 'NAND_Gate', wave: 'xh......l'},
+  {name: 'NOR_Gate', wave: 'xhl......'},
+  {name: 'XOR_Gate', wave: 'xlh.lhl.h'},
+  {name: 'XNOR_Gate', wave: 'xhl.hlh.l'},
+ ] 
+  
+]}
