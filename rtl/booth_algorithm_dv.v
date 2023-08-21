@@ -13,10 +13,10 @@ reg [3:0] A;
 reg [3:0] Q;
 reg [3:0] M;
 
+
 always @(posedge clk or negedge n_rst) begin
     if (!n_rst) begin
         out     <=      8'b0;
-        count   <=      4'b0;
         A       <=      4'b0;
         Q       <=      4'b0;
         M       <=      4'b0;
@@ -24,7 +24,16 @@ always @(posedge clk or negedge n_rst) begin
 
     else begin  // n_rst == 1
         out     <=      {A, Q};
-        count   <=      count + 4'b0001;
+    end
+end
+
+always @(posedge clk or negedge n_rst) begin
+    if (!n_rst) begin
+        count <= 4'b0;
+    end 
+
+    else begin // n_rst == 1
+        count <= count + 4'b0001;
     end
 end
 
@@ -35,11 +44,12 @@ always @(*) begin
         M = in2;
     end
 
-    else if ((count > 4'b0000) && (count <= 4'b0101)) begin
+    else if ((count > 4'b0001) && (count <= 4'b0101)) begin
         {A, Q} = {A, Q} << 1;
         A = A + (~M + 4'b0001);
-
-        if (A < 0) begin
+        
+        
+        if ((A == 4'b1111) || (A == 4'b1110) || (A == 4'b1100) || (A == 4'b1000)) begin
             Q[0] = 1'b0;
             A = A + M;
         end
@@ -47,6 +57,11 @@ always @(*) begin
         else begin // A == 0 or A > 0 
             Q[0] = 1'b1;
         end
+        
+    end
+
+    else begin
+        {A, Q} = {A, Q};
     end
 end
 
