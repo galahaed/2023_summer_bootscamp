@@ -73,7 +73,7 @@ always @(*) begin
     end
 end
 
-assign out = result[8:1];
+
 
 endmodule
 
