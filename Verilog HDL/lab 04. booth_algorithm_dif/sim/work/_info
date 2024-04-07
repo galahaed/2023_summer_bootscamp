@@ -1,0 +1,478 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog_2023/mux/sim
+vadd
+Z1 !s110 1690443519
+!i10b 1
+!s100 E9GT`<58F;H?S8A8gl[F[1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IamB@QDHlA:Y`l7FA=0G>S1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/verilog_2023/rca/sim
+Z5 w1690443327
+Z6 8../../rca/src/rtl/rca.v
+Z7 F../../rca/src/rtl/rca.v
+!i122 11
+L0 24 12
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1690443519.000000
+Z10 !s107 ../../rca/testbench/rca_testbench.v|../../rca/src/rtl/rca.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z12 tCvgOpt 0
+vbooth_algorithm
+!s110 1692148404
+!i10b 1
+!s100 WGiUZll=A`EMHX7kz^UGm3
+R2
+I<2>nTQ72A0@FXQjgoHWWI0
+R3
+Z13 dC:/verilog_summer_2023/booth_algorithm/sim
+w1692148397
+Z14 8../../booth_algorithm/src/rtl/booth_algorithm.v
+Z15 F../../booth_algorithm/src/rtl/booth_algorithm.v
+!i122 137
+L0 1 78
+R8
+r1
+!s85 0
+31
+!s108 1692148404.000000
+Z16 !s107 ../../booth_algorithm/testbench/booth_algorithm_tb.v|../../booth_algorithm/src/rtl/booth_algorithm.v|
+R11
+!i113 1
+R12
+vbooth_multiplier
+!s110 1691648113
+!i10b 1
+!s100 An@bzljeYSnX[1fz:22SR1
+R2
+IWYZ;?;1VXVjb_MoLB<ZYO0
+R3
+Z17 dC:/verilog_summer_2023/booth_algoritm/sim
+w1691648104
+8../../booth_algoritm/src/rtl/booth_algoritm.v
+F../../booth_algoritm/src/rtl/booth_algoritm.v
+!i122 50
+L0 16 63
+R8
+r1
+!s85 0
+31
+!s108 1691648112.000000
+Z18 !s107 ../../booth_algoritm/testbench/booth_algoritm_tb.v|../../booth_algoritm/src/rtl/booth_algoritm.v|
+R11
+!i113 1
+R12
+vbooth_tb
+!s110 1692066535
+!i10b 1
+!s100 `>LbKfkdEiGmU?j8;EWg33
+R2
+IjOzGMUCU=G`z_do8gAnH32
+R3
+R13
+w1692066530
+8../../booth_algorithm/testbench/booth_algorithm_tb.v
+F../../booth_algorithm/testbench/booth_algorithm_tb.v
+!i122 77
+L0 43 24
+R8
+r1
+!s85 0
+31
+!s108 1692066535.000000
+R16
+R11
+!i113 1
+R12
+vBoothMul
+!s110 1692066560
+!i10b 1
+!s100 1FMXgD^^nm_MV:lE?A1TK1
+R2
+I5b?n5F589P_EOGj1KN4d:2
+R3
+R13
+w1692066531
+R14
+R15
+!i122 78
+L0 83 75
+R8
+r1
+!s85 0
+31
+!s108 1692066560.000000
+R16
+R11
+!i113 1
+R12
+n@booth@mul
+vcase_st
+!s110 1692066338
+!i10b 1
+!s100 24W@nVZb6CF`1O;Rj6PK:3
+R2
+IObeahFR46MR3cfX=]mIBc2
+R3
+R13
+w1692066332
+R14
+R15
+!i122 76
+L0 112 46
+R8
+r1
+!s85 0
+31
+!s108 1692066338.000000
+R16
+R11
+!i113 1
+R12
+vcla
+!s110 1690625791
+!i10b 1
+!s100 D1G0;U=nolgM4oX?7R5Xb0
+R2
+If2>j2b]La3<WSmBLSjE2a0
+R3
+Z19 dC:/verilog_2023/cla/sim
+w1690625781
+Z20 8../../cla/src/rtl/cla.v
+Z21 F../../cla/src/rtl/cla.v
+!i122 14
+L0 4 31
+R8
+r1
+!s85 0
+31
+!s108 1690625791.000000
+Z22 !s107 ../../cla/testbench/cla_testbench.v|../../cla/src/rtl/cla.v|
+R11
+!i113 1
+R12
+vcomparator_1bit
+!s110 1691634240
+!i10b 1
+!s100 ]Kh?l>>8M<0Y@g^`I`@2N3
+R2
+INi;c62EXf_YIf<eUM@omc2
+R3
+dC:/verilog_summer_2023/comparator/sim
+w1691633188
+8../../comparator/src/rtl/comparator.v
+F../../comparator/src/rtl/comparator.v
+!i122 45
+L0 2 37
+R8
+r1
+!s85 0
+31
+!s108 1691634240.000000
+!s107 ../../comparator/testbench/comparator_tb.v|../../comparator/src/rtl/comparator.v|
+R11
+!i113 1
+R12
+vf_adder
+!s110 1690442331
+!i10b 1
+!s100 ?>?i2JZThi1_Fo<1OM60S2
+R2
+Ie06onG6:_>@[iX6584DMm0
+R3
+R4
+w1690442302
+R6
+R7
+!i122 7
+L0 22 12
+R8
+r1
+!s85 0
+31
+!s108 1690442331.000000
+R10
+R11
+!i113 1
+R12
+vfull_adder
+!s110 1690624389
+!i10b 1
+!s100 6HNT;86>0Gd]<QLR78URY0
+R2
+IbMm?jk>nbmTkiI:5@R4CN0
+R3
+R19
+w1690624186
+R20
+R21
+!i122 13
+L0 36 13
+R8
+r1
+!s85 0
+31
+!s108 1690624389.000000
+R22
+R11
+!i113 1
+R12
+vhalf_adder
+Z23 !s110 1690621319
+!i10b 1
+!s100 @38D737YHF5>BHHC:<?n30
+R2
+I``H@3<iBVl=e6[5>BNC:E1
+R3
+R19
+Z24 w1690621254
+R20
+R21
+!i122 12
+L0 68 9
+R8
+r1
+!s85 0
+31
+Z25 !s108 1690621319.000000
+R22
+R11
+!i113 1
+R12
+vmealy_machine
+!s110 1691041262
+!i10b 1
+!s100 F]n<hcifij9Ab?Ugzh`:L3
+R2
+I]DY2G<zg6S357FL_DDnZa3
+R3
+dC:/verilog_2023/mealy_machine/sim
+w1691041133
+8../../mealy_machine/src/rtl/mealy_machine.v
+F../../mealy_machine/src/rtl/mealy_machine.v
+!i122 33
+L0 2 57
+R8
+r1
+!s85 0
+31
+!s108 1691041262.000000
+!s107 ../../mealy_machine/testbench/mealy_machine_testbench.v|../../mealy_machine/src/rtl/mealy_machine.v|
+R11
+!i113 1
+R12
+vmux
+!s110 1690431094
+!i10b 1
+!s100 8fgVonIOZ=mCkBc8ZlO=:0
+R2
+IdKRA9J7VDd?hl0_G`=Mec2
+R3
+R0
+w1690366753
+8../../mux/src/rtl/mux.v
+F../../mux/src/rtl/mux.v
+!i122 3
+L0 1 24
+R8
+r1
+!s85 0
+31
+!s108 1690431094.000000
+Z26 !s107 ../../mux/testbench/mux_testbench.v|../../mux/src/rtl/mux.v|
+R11
+!i113 1
+R12
+vrca
+R1
+!i10b 1
+!s100 >>?TcnFIimD;`EiZVbEoh3
+R2
+IUU`9jOM3l>;R[NdR5FWm82
+R3
+R4
+R5
+R6
+R7
+!i122 11
+L0 4 19
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vRipple_carry_adder_16bit
+R23
+!i10b 1
+!s100 `6XC[40;f]Y8AeKln]FS<1
+R2
+I9fONRdmKC:1>lANjJbPUd3
+R3
+R19
+R24
+R20
+R21
+!i122 12
+L0 10 15
+R8
+r1
+!s85 0
+31
+R25
+R22
+R11
+!i113 1
+R12
+n@ripple_carry_adder_16bit
+vRipple_carry_adder_4bit
+R23
+!i10b 1
+!s100 lB^[IR<5U0[_4oeLlg?_01
+R2
+IneDe8bWz0m3>H@Djn<fg?3
+R3
+R19
+R24
+R20
+R21
+!i122 12
+L0 26 14
+R8
+r1
+!s85 0
+31
+R25
+R22
+R11
+!i113 1
+R12
+n@ripple_carry_adder_4bit
+vRipple_carry_addition
+R23
+!i10b 1
+!s100 5d0ciS=dF<X12c<>YEZmh1
+R2
+IoenjTEFIAfSORICbCX6el0
+R3
+R19
+R24
+R20
+R21
+!i122 12
+L0 41 11
+R8
+r1
+!s85 0
+31
+R25
+R22
+R11
+!i113 1
+R12
+n@ripple_carry_addition
+vsr_latch
+!s110 1692002379
+!i10b 1
+!s100 CmUQcF539JI0mV>g8V@><2
+R2
+ISV_SEjlN:1I<OD@DO^E<V2
+R3
+R13
+w1692002334
+R14
+R15
+!i122 61
+L0 201 35
+R8
+r1
+!s85 0
+31
+!s108 1692002379.000000
+R16
+R11
+!i113 1
+R12
+vTB_booth_multiplier
+!s110 1691647231
+!i10b 1
+!s100 eboOc:R5NIldQ<XF3fAZS3
+R2
+I[d:RB]efPYE`QYGlZ[>Xc2
+R3
+R17
+w1691647178
+8../../booth_algoritm/testbench/booth_algoritm_tb.v
+F../../booth_algoritm/testbench/booth_algoritm_tb.v
+!i122 46
+L0 1 31
+R8
+r1
+!s85 0
+31
+!s108 1691647230.000000
+R18
+R11
+!i113 1
+R12
+n@t@b_booth_multiplier
+vtb_mux
+!s110 1690430871
+!i10b 1
+!s100 b;b=1F7elG9HDKo9?h1C50
+R2
+IooSd>LL@e:`]AgSQHDk0a1
+R3
+R0
+w1690366765
+8../../mux/testbench/mux_testbench.v
+F../../mux/testbench/mux_testbench.v
+!i122 0
+L0 1 39
+R8
+r1
+!s85 0
+31
+!s108 1690430871.000000
+R26
+R11
+!i113 1
+R12
+vtestbench
+!s110 1692168133
+!i10b 1
+!s100 Xa7fIIZ<c]AQ1zz9[FZ_:1
+R2
+IYKzLQQ7J<8U1gmeSA`eZ;2
+R3
+dC:/verilog_summer_2023/booth_algorithm_dif/sim
+w1692158432
+8../../booth_algorithm_dif/testbench/booth_algorithm_tb.v
+F../../booth_algorithm_dif/testbench/booth_algorithm_tb.v
+!i122 138
+L0 2 38
+R8
+r1
+!s85 0
+31
+!s108 1692168132.000000
+!s107 ../../booth_algorithm_dif/testbench/booth_algorithm_tb.v|../../booth_algorithm_dif/src/rtl/booth_algorithm.v|
+R11
+!i113 1
+R12
