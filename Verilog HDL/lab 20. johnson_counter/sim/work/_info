@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog_2023/johnson_counter/sim
+vjohnson_counter
+Z1 !s110 1689757298
+!i10b 1
+!s100 83>7I;U@:=XZnEC0<4k]d1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9PJ<m<_l]DfRNdakF[`=V0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1689757293
+8../../johnson_counter/src/rtl/johnson.v
+F../../johnson_counter/src/rtl/johnson.v
+!i122 18
+L0 1 44
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1689757298.000000
+!s107 ../../johnson_counter/testbench/johnson_testbench.v|../../johnson_counter/src/rtl/johnson.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 eYnM`_V[3oY@4z__>QDm?1
+R2
+IZ9b]ahZ<hzX77nCjWU]:l2
+R3
+R0
+w1689756457
+8../../johnson_counter/testbench/johnson_testbench.v
+F../../johnson_counter/testbench/johnson_testbench.v
+!i122 18
+L0 1 35
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../johnson_counter/testbench/johnson_testbench.v|../../johnson_counter/src/rtl/johnson.v|
+R6
+!i113 1
+R7

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog_2023/gray_counter/sim
+vgray_counter
+Z1 !s110 1690188719
+!i10b 1
+!s100 ^FA[^lONkMOL7m?PeS73d3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJB;QPHSkV>S=eeF_zRN2o3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1689831652
+8../../gray_counter/src/rtl/gray.v
+F../../gray_counter/src/rtl/gray.v
+!i122 22
+L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1690188719.000000
+!s107 ../../gray_counter/testbench/gray_testbench.v|../../gray_counter/src/rtl/gray.v|
+Z6 !s90 -reportprogress|300|-f|run.f|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 7Ad7K<bi_ke24IeedP40N3
+R2
+I7a?_6Je67FjmbzgS1S12f1
+R3
+R0
+w1689831651
+8../../gray_counter/testbench/gray_testbench.v
+F../../gray_counter/testbench/gray_testbench.v
+!i122 22
+L0 1 59
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../../gray_counter/testbench/gray_testbench.v|../../gray_counter/src/rtl/gray.v|
+R6
+!i113 1
+R7
